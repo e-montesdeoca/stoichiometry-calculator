@@ -175,7 +175,7 @@ jobs:
           # auxiliary links without coupling the dashboard to the build itself.
           DRAFTER_RUN+=(
             --external-pages "dashboard/ Dashboard"
-            --external-pages "${{ github.server_url }}/${{ github.repository }} Repository"
+            --external-pages "${{ github.server_url }}/${{ github.repository }}"
           )
 
           {
