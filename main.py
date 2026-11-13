@@ -7,6 +7,15 @@ import re
 hide_debug_information()
 set_website_title("Stoichiometry Calculator")
 set_website_framed(False)
+set_site_information(
+    author="Emily Montesdeoca",
+    description="An educational stoichiometry calculator that helps students identify limiting reactants, calculate theoretical and percent yield, and understand each step of the process. The website automatically calculates molar masses using a dictionary of atomic masses.",
+    sources=[
+        "https://drafter-edu.github.io/drafter/"
+    ],
+    planning=[],
+    links=[]
+)
 
 ATOMIC_MASSES = {
     "H": 1.008, "He": 4.0026, "Li": 6.94, "Be": 9.0122, "B": 10.81,
