@@ -14,7 +14,9 @@ set_site_information(
         "https://drafter-edu.github.io/drafter/"
     ],
     planning=[],
-    links=[]
+    links=[
+    "https://github.com/e-montesdeoca/stoichiometry-calculator"
+]
 )
 
 ATOMIC_MASSES = {
