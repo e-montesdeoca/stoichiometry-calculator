@@ -15,8 +15,12 @@ set_site_information(
     ],
     planning=[],
     links=[
-    "https://github.com/e-montesdeoca/stoichiometry-calculator"
+    Link(
+        "Repository",
+        "https://github.com/e-montesdeoca/stoichiometry-calculator"
+    )
 ]
+
 )
 
 ATOMIC_MASSES = {
