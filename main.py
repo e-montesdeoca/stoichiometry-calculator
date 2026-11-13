@@ -15,7 +15,7 @@ set_site_information(
     ],
     planning=[],
     links=[
-    "Repository https://github.com/e-montesdeoca/stoichiometry-calculator"
+    "https://github.com/e-montesdeoca/stoichiometry-calculator"
 ]
 )
 
