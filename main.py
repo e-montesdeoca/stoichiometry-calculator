@@ -14,12 +14,7 @@ set_site_information(
         "https://drafter-edu.github.io/drafter/"
     ],
     planning=[],
-    links=[
-    Link(
-        "Repository",
-        "https://github.com/e-montesdeoca/stoichiometry-calculator"
-    )
-]
+    links=["https://github.com/e-montesdeoca/stoichiometry-calculator"]
 
 )
 
